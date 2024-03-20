@@ -10,5 +10,8 @@
         <module name="PlayWrightProject" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="test_output" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
